@@ -1,7 +1,7 @@
 username = 'Zen A Shaw'
-userage = 23 #inch
-userheight = 53 #1bs
-userweight = 180
+userage = 23
+userheight = 53 #inch
+userweight = 180 #lbs
 usereye = 'Brown'
 userteeth = 'White'
 userhair = 'Black'
